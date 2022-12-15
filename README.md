@@ -14,3 +14,6 @@ Data collection
 
 ![image](https://user-images.githubusercontent.com/94882888/207836758-c66a2af7-5c1e-4af4-b023-bfa8c7a08ba8.png)
 
+Orange colour line is the predicted 30 days output.
+Blue line is the past 100 days data.
+
