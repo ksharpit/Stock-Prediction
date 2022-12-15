@@ -9,3 +9,8 @@ Data collection
 4. Then we will train the model 
 5. Predict the test data and plot the output
 6. Finally we will predict the future 30 days and plot the output
+
+# Output
+
+![image](https://user-images.githubusercontent.com/94882888/207836758-c66a2af7-5c1e-4af4-b023-bfa8c7a08ba8.png)
+
